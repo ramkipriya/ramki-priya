@@ -26,6 +26,6 @@ public class ChracterData {
 				System.out.println("LowerCase of c2 ="+Character.toLowerCase(cc2));
 		
 				
-				System.out.println("LowerCase of c3 ="+Character.toUpperCase(cc3));
+				System.out.println("LowerCase of c3ccc ="+Character.toUpperCase(cc3));
 		}
 	}
